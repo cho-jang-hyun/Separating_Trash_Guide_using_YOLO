@@ -1,4 +1,4 @@
-# khuthon2024-1
+# Separating_trash_guide_using_yolo
 
 <img width="960" alt="슬라이드1" src="https://github.com/cho-jang-hyun/khuthon2024-1/assets/69357083/a02c386f-45f0-4d1c-be58-b767fa7d54cc">
 <img width="960" alt="슬라이드2" src="https://github.com/cho-jang-hyun/khuthon2024-1/assets/69357083/32b7664b-7879-4159-8357-f2acb7af7321">
